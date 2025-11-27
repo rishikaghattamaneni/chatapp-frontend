@@ -1,4 +1,4 @@
-ChatterBox – Frontend
+#ChatterBox – Frontend
 
 This repository contains the frontend for ChatterBox, a real-time messaging application that allows users to chat instantly, share multimedia, and stay connected with live updates. The interface is built using React and designed to be fast, clean, and user-friendly.
 
