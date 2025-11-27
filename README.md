@@ -2,6 +2,9 @@
 
 This repository contains the frontend for ChatterBox, a real-time messaging application that allows users to chat instantly, share multimedia, and stay connected with live updates. The interface is built using React and designed to be fast, clean, and user-friendly.
 
+🔗 Live Demo
+https://chat-frontend-tau-rosy.vercel.app/
+
 🚀 Features
 	•	🔐 User authentication (Login & Register)
 	•	💬 Real-time messaging using Socket.io
