@@ -1,12 +1,36 @@
-# React + Vite
+ChatterBox – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend for ChatterBox, a real-time messaging application that allows users to chat instantly, share multimedia, and stay connected with live updates. The interface is built using React and designed to be fast, clean, and user-friendly.
 
-Currently, two official plugins are available:
+🚀 Features
+	•	🔐 User authentication (Login & Register)
+	•	💬 Real-time messaging using Socket.io
+	•	🎨 Modern, responsive UI (mobile + desktop)
+	•	📎 Image / video / file sharing
+	•	✨ Typing indicators & online/offline status
+	•	⚡ Smooth and fast performance
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+	•	React.js
+	•	CSS / Tailwind / Bootstrap (based on your project)
+	•	Socket.io Client
+	•	Axios for API calls
 
-## Expanding the ESLint configuration
+📁 Project Structure
+src/
+ ├── components     → Reusable UI components  
+ ├── pages          → Main screens (Login, Chat, etc.)  
+ ├── context        → Global state management  
+ └── utils          → Helper functions  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📦 Installation & Setup
+1️⃣ Install dependencies
+npm install
+2️⃣ Start the frontend
+npm start
+
+The app will run at:
+👉 http://localhost:3000
+
+🎯 About the Project
+ChatterBox was developed as part of an academic project to demonstrate full-stack development skills, real-time communication, secure messaging, and modern UI design.
